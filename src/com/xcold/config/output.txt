@@ -1,0 +1,6 @@
+###{TopTitle}###
+
+{PluginName}
+-------------
+{.[TAB]outPutForPlugin}
+	
